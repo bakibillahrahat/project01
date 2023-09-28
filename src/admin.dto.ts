@@ -1,3 +1,4 @@
+// Admin info
 export class AdminInfo {
   name: string;
   username: string;
